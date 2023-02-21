@@ -3,7 +3,7 @@ public class Lab1 {
         Lab1 lab1 = new Lab1();
         lab1.compulsory();
         int n = Integer.parseInt(args[0]);
-        lab1.homework();
+        lab1.homework(args);
         lab1.bonus();
     }
 
@@ -32,7 +32,8 @@ public class Lab1 {
 
         System.out.println("Willy-nilly, this semester I will learn " + languages[result]);
     }
-    void homework() {
+    void homework(String[] args) {
+        int n = Integer.parseInt(args[0]);
         int[][] matrix=new int[50][50];
         for(int i=0;i<n;i++)
             for(int j=0; j<n;j++)
