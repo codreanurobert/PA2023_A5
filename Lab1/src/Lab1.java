@@ -5,7 +5,7 @@ public class Lab1 {
         lab1.compulsory();
         int n = Integer.parseInt(args[0]);
         lab1.homework(n);
-        lab1.bonus();
+        //lab1.bonus();
     }
 
     public void compulsory()
@@ -69,9 +69,7 @@ public class Lab1 {
             System.out.println("The Running time is: " + timeElapsed);
         }
     }
-    public void bonus() {
 
-    }
 }
 
 // 0 1 2 3 4 5

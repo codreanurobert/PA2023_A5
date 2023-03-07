@@ -1,0 +1,40 @@
+
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š‚ßúÿÿÿÿ8û†ßßë0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ôµ†8ü†ßßë0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯“õì8ı†ßßë0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÄÓŸıÿÿÿÿ8ı†ßßë0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï½£˜úÿÿÿÿ8ı†ßßë0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿±ôİÿÿÿÿÿ8ı†ßßë0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…úÿáÿÿÿÿÿ8ı†ßßë0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†íã8ı†ßßë0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‰¬¥ıÿÿÿÿ8ı†ßßë0
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íºû˜8ı†ßßë0
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŒ°ùıÿÿÿÿ8ı†ßßë0
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÏîÑ8ı†ßßë0
+S
+java:S1854""6Remove this useless assignment to local variable "R5".(úÏîÑ8—‡ßßë0
+X
+java:S1854!"6Remove this useless assignment to local variable "R4".(ŠŒ°ùıÿÿÿÿ8—‡ßßë0
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8˜‡ßßë0
+I
+java:S1481!"'Remove this unused "R4" local variable.(ŠŒ°ùıÿÿÿÿ8›‡ßßë0
+D
+java:S1481""'Remove this unused "R5" local variable.(úÏîÑ8›‡ßßë0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ĞÌÒšûÿÿÿÿ8›‡ßßë0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¿É»­ûÿÿÿÿ8œ‡ßßë0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Üğ¥²ıÿÿÿÿ8œ‡ßßë0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¾‚¹š8œ‡ßßë0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ò†¯å8œ‡ßßë0
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(¨„¹I8‡ßßë0
+]	java:S125."<This block of commented-out lines of code should be removed.(è¥¥Şúÿÿÿÿ8‡ßßë0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¹ş„Õ8Ÿ‡ßßë0
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(¿‹·ç8Ÿ‡ßßë0
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(£ù‹’8Ÿ‡ßßë0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(‡’Éüÿÿÿÿ8£‡ßßë0
+I
+java:S1125M"'Remove the unnecessary boolean literal.(§óÇÇüÿÿÿÿ8¥‡ßßë0
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(£ù‹’8¦‡ßßë0
+T	java:S106^"9Replace this use of System.out or System.err by a logger.(Ô—ÿR8¦‡ßßë0
