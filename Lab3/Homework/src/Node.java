@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Node {
+public interface Node {
+
+    String getName();
+
 }
