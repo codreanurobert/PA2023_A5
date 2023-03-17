@@ -24,8 +24,11 @@ public class Main {
         for (Student s : studentsInput) {
             students.add(s);
         }
-        Student student0 = new Student("Abc");
-        students.add(student0);
+        for (Project p : projectInput) {
+            projects.add(p);
+        }
+        students.add(new Student("Abc"));
+        projects.add(new Project("Cde"));
 
         Collections.sort(students, (Student a, Student b) -> a.getName().compareTo(b.getName()));
 
@@ -33,12 +36,6 @@ public class Main {
         for (Student s : students) {
             System.out.println(s);
         }
-
-        for (Project p : projectInput) {
-            projects.add(p);
-        }
-        Project project0 = new Project("Cde");
-        projects.add(project0);
 
         System.out.println("Projects:");
         for (Project p : projects) {

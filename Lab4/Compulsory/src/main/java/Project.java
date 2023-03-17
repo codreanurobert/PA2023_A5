@@ -16,8 +16,11 @@ public class Project implements Comparable<Project> {
     public int compareTo(Project other){
         return this.name.compareTo(other.getName());
     }
+
     @Override
     public String toString() {
-        return this.name;
+        return "Project{" +
+                "name='" + name + '\'' +
+                '}';
     }
 }
