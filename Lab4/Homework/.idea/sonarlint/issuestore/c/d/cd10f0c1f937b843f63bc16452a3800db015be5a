@@ -1,0 +1,14 @@
+
+‹
+java:S1319
+"nThe type of "projectList" should be an interface such as "SortedSet" rather than the implementation "TreeSet".(£ººÇ8Ôå¼ùî0
+•
+java:S1319"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(•Çë™ıÿÿÿÿ8Ôå¼ùî0
+
+java:S1319"nThe type of "projectList" should be an interface such as "SortedSet" rather than the implementation "TreeSet".(•ùÀìÿÿÿÿÿ8Ôå¼ùî0
+ˆ
+java:S1488D"fImmediately return this expression instead of assigning it to the temporary variable "solutionString".(¶Ùşêÿÿÿÿÿ8ÙÖÜùî0
+o
+java:S6204$"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ï±Ïì8óÖÜùî0
+i
+java:S2175@"GA "Map<String, Project>" cannot contain a "Student" in a "String" type.(§â•ëûÿÿÿÿ8øÖÜùî0
