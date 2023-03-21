@@ -67,7 +67,6 @@ public class Problem {
         }
         String solutionString = solution.entrySet().stream().map(entry -> entry.getKey() + ": " + entry.getValue()).collect(Collectors.joining("\n"));
 
-
         return solutionString;
     }
 }

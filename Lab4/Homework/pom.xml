@@ -28,8 +28,7 @@
         <dependency>
             <groupId>org.graph4j</groupId>
             <artifactId>graph4j</artifactId>
-            <version>1.0.0</version>
-            <systemPath>${basedir}\src\main\resources\graph4j-1.0.0.jar</systemPath>
+            <version>1.0.0</version
         </dependency>
     </dependencies>
 
