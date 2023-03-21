@@ -14,7 +14,6 @@ public class CatalogUtil {
         Catalog catalog = objectMapper.readValue(new File(path), Catalog.class);
         return catalog;
     }
-7
 
     public static void view(Document doc) {
         System.out.println(doc);
