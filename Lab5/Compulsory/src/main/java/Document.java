@@ -1,3 +1,4 @@
+import javax.swing.event.DocumentEvent;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
@@ -12,6 +13,8 @@ public class Document implements Serializable {
         this.title = title;
         this.id = id;
         this.location = location;
+    }
+    public Document()   {
     }
 
     public void addTag(String key, Object obj) {
@@ -33,14 +36,6 @@ public class Document implements Serializable {
     public void setId(String id) {
         this.id = id;
     }
-
-//    public String getPath() {
-//        return path;
-//    }
-//
-//    public void setPath(String path) {
-//        this.path = path;
-//    }
 
     public String getLocation() {
         return location;

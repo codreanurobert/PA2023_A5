@@ -22,6 +22,12 @@ public class Catalog implements Serializable {
     public void setDocuments(List<Document> documents) {
         this.documents = documents;
     }
+    public Catalog() {
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public Catalog(String name) {
         this.name = name;
