@@ -1,14 +1,14 @@
 package Commands;
 
-import javax.swing.text.Document;
+public class LoadCommand implements Command {
+    String fileName;
 
-public class AddCommand implements Command {
-    public void add(Document doc) {
-        documents.add(doc);
+    public LoadCommand(String fileName) {
+        this.fileName = fileName;
     }
+
     @Override
     public void execute() {
-
+        System.out.println("Loaded file " + fileName);
     }
-}
 }
