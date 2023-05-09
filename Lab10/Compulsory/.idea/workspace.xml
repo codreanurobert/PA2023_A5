@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a386168e-84f6-47e7-b1e9-764585690247" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Homework/.idea/sonarlint/issuestore/0/2/02d23639bf0df0257b12c02b249734606a647135" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Homework/.idea/sonarlint/issuestore/0/2/02d23639bf0df0257b12c02b249734606a647135" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Homework/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Homework/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2/Homework/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Homework/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Compulsory/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Compulsory/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Homework/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Homework/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Homework/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Homework/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Compulsory/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Compulsory/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Homework/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Homework/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5/Homework/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5/Homework/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory JavaFX/src/main/java/ConfigPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory JavaFX/src/main/java/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/ConfigPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/ConfigPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/ControlPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/DrawingPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/DrawingPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Compulsory-JavaFX/src/main/java/com/example/compulsoryjavafx/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Compulsory/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Homework/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Homework/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Homework/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Homework/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Compulsory/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Compulsory/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Homework/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Homework/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab7/Homework/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab7/Homework/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Compulsory/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Compulsory/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Compulsory/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab8/Compulsory/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab8/Compulsory/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PY9CZ6Z86hpfaw6QU3cF8atHAy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a386168e-84f6-47e7-b1e9-764585690247" name="Changes" comment="" />
+      <created>1683623024382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683623024382</updated>
+      <workItem from="1683623026533" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
