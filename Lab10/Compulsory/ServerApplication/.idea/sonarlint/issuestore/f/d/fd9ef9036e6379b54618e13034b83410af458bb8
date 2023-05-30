@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø²í€8–ÁÉ…€1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ó¨¯‰üÿÿÿÿ8—ÁÉ…€1
+n
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(Ö£áõ8—ÁÉ…€1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Ö£áõ8å°Ê…€1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8šÁÉ…€1

@@ -53,7 +53,6 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-// Client class
 public class GameClient {
     public static void main(String[] args) {
         try (Socket socket = new Socket("localhost", 1234)) {
