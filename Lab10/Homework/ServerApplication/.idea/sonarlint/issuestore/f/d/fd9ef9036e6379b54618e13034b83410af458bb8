@@ -1,0 +1,10 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÂÕ8İŠÃŸ‚1
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(“–ış8áŠÃŸ‚1
+R
+java:S1117!"5Rename "in" which hides the field declared at line 9.(·¯¢Ô8âŠÃŸ‚1
+T
+java:S1117!"7Rename "out" which hides the field declared at line 10.(·¯¢Ô8äŠÃŸ‚1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(îñÖ´8çŠÃŸ‚1
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(ÈÌ-8ëŠÃŸ‚1

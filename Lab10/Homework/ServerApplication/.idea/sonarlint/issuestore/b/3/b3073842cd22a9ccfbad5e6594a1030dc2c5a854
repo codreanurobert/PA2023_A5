@@ -1,0 +1,22 @@
+
+e
+java:S11928"HDefine a constant instead of duplicating this literal "Player " 8 times.( ÿÆå8ÕšÊŸ‚1
+p
+java:S11928"SDefine a constant instead of duplicating this literal " joined the game: " 4 times.( ÿÆå8ÖšÊŸ‚1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÃƒŠ8üšÊŸ‚1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÅÆõÚ8üšÊŸ‚1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¾ìØÆ8şšÊŸ‚1
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(©±³x8şšÊŸ‚1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8şšÊŸ‚1
+t
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Óù ¥üÿÿÿÿ8ÿšÊŸ‚1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.( ÿÆå8›ÊŸ‚1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.( ÿÆå8ƒ›ÊŸ‚1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(€ğ÷ãûÿÿÿÿ8„›ÊŸ‚1
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(š™äº8†›ÊŸ‚1
+T	java:S106o"9Replace this use of System.out or System.err by a logger.(ô¼Û
+8ˆ›ÊŸ‚1
+|
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Š›ÊŸ‚1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¦Á¤“8‹›ÊŸ‚1

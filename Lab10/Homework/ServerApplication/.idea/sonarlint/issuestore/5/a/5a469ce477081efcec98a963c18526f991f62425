@@ -1,0 +1,7 @@
+
+u
+java:S1450"XRemove the "turnTimer" field and declare it as a local variable in the relevant methods.(¿ÁÉŞ8ŸÍÆŸ‚1
+{
+java:S2142h"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8·ÍÆŸ‚1
+V
+java:S1068"4Remove this unused "timeLimitSeconds" private field.(µ£ùÿÿÿÿ8ÂÍÆŸ‚1

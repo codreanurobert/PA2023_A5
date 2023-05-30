@@ -1,0 +1,15 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(¬ş‚µşÿÿÿÿ8Ñ˜ÓŸ‚1
+n
+java:S1450b"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ğ¶ü8Õ˜ÓŸ‚1
+o
+java:S1450c"RRemove the "out" field and declare it as a local variable in the relevant methods.(¨¥ÑÓ8Ö˜ÓŸ‚1
+w
+java:S1450a"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úşÿÿÿÿ8×˜ÓŸ‚1
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(«ÃÏÿüÿÿÿÿ8â˜ÓŸ‚1
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(Ç½¹Š8â˜ÓŸ‚1
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8è˜ÓŸ‚1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù§´ëúÿÿÿÿ8ê˜ÓŸ‚1
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(ÅÉå8ë˜ÓŸ‚1
+U	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÈÌ-8ì˜ÓŸ‚1
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(¨Óšûşÿÿÿÿ8ñ˜ÓŸ‚1
